@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@drawable/backgroud">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorAccent"
+        android:text="1. 流星群的发生条件与时间点"
+        android:textColor="#FFFFFF"
+        android:textSize="10pt"
+        android:textStyle="bold"
+/>
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="20dp"
+            android:text="动森中最容易看到流星雨的时候当然是「流星雨之日」啦，到了「流星群之日」时，流星间的间隔时间会缩短，有的时候还能看到多个流星一同划过天际！  而且到了「流星群之日」的时候，狸克或西施惠会在您登录时广播「今晚会有流星群」的消息。  在与您岛上的小动物们聊天时，他们也会告诉您今晚会有流星雨。  平日里虽然也能看到流星，但是几率会很低，要耐心等待。  需要注意的是在19:00〜4:00时间段内才能观测到流星群！"
+            android:textColor="#000000"
+            />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorAccent"
+        android:text="2.流星的音效"
+        android:textColor="#FFFFFF"
+        android:textSize="10pt"
+        android:textStyle="bold"
+ />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="20dp"
+            android:text="动森中最容易看到流星雨的时候当然是「流星雨之日」啦，到了「流星群之日」时，流星间的间隔时间会缩短，有的时候还能看到多个流星一同划过天际！  而且到了「流星群之日」的时候，狸克或西施惠会在您登录时广播「今晚会有流星群」的消息。  在与您岛上的小动物们聊天时，他们也会告诉您今晚会有流星雨。  平日里虽然也能看到流星，但是几率会很低，要耐心等待。  需要注意的是在19:00〜4:00时间段内才能观测到流星群！"
+            android:textColor="#000000"
+            />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorAccent"
+        android:text="3.流星与天气"
+        android:textColor="#FFFFFF"
+        android:textSize="10pt"
+        android:textStyle="bold"
+ />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="20dp"
+            android:text="到了「流星群之日」的时候，即使夜晚并不晴朗，您仍然可以看到流星。请不要放弃，继续等待流星吧。"
+            android:textColor="#000000"
+            />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="390dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorAccent"
+        android:text="4.在朋友的岛上时看到流星也能许愿"
+        android:textColor="#FFFFFF"
+        android:textSize="10pt"
+        android:textStyle="bold"
+/>
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="20dp"
+            android:text="在朋友的岛上时也能许愿，当你许完愿后的次日，就可以在自己岛屿的沙滩上寻找到流星碎片！  "
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorAccent"
+            android:text="5.许愿的效果"
+            android:textColor="#FFFFFF"
+            android:textSize="10pt"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="20dp"
+            android:text="当流星滑落时，您可以通过按↑调整视角后按A键来许愿。  许愿后的次日，沙滩上会出现如“流星碎片”之类的物品。有时还会发现稀有的“大块流星碎片”和对应月份的极其稀有的“星座流星碎片”。多多许愿来获得各种各样的流星碎片吧！"
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorAccent"
+            android:text="6.沙滩上的流星碎片数量"
+            android:textColor="#FFFFFF"
+            android:textSize="10pt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="20dp"
+            android:text="攻略组发现即使当晚许愿超过20次，次日在沙滩上也只能获得不超过20个流星碎片！"
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorAccent"
+            android:text="7.流星家具配方的获得"
+            android:textColor="#FFFFFF"
+            android:textSize="10pt"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="20dp"
+            android:text="在可以观测流星的时间内，与出现在岛屿上的博物馆主妹妹傅珂对话可以随机获得以流星碎片为原材料的各种配方！"
+            android:textColor="#000000"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

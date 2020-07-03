@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@drawable/backgroud">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorAccent"
+        android:text="最初的动森"
+        android:textColor="#FFFFFF"
+        android:textSize="10pt"
+        android:textStyle="bold"
+ />
+
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="20dp"
+            android:text="第一部动森在2001年4月登陆任天堂的N64，游戏名叫做《动物之森》，是属于任天堂第一方的游戏IP。游戏被设定为一款社交模拟游戏，后来以其高自由度而备受玩家们的喜爱。在游戏中，玩家扮演一位“村民”的人类角色，居住在拟人化的动物村庄，村庄偶尔会举办各种活动，比如种花草、和村民们交换信件和礼物等。最重要的一点就是，游戏中的时间和现实时间完全同步。而游戏中最为人称道的自由度就是没有任务的束缚也没有时间的限制，你被允许不与邻居们交朋友，也可以不种地钓鱼，游戏没有饥饿值，也没有血量。"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorAccent"
+        android:text="动森到底玩什么"
+        android:textColor="#FFFFFF"
+        android:textSize="10pt"
+        android:textStyle="bold"
+/>
+
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="380dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="20dp"
+            android:text="正如很多玩家所说，与其说这是一个“种田游戏”，更不如说这是一个还房贷的游戏。作为新居民刚来到岛上的你需要拥有一个住下来的地方，而奸商杂货店老板狸克（就是下面这位）会先给你一个小房子，告诉你房子我给你了，但是房贷要自己还。所以游戏就出现了一个不是任务的任务：还钱。虽然狸克要你还房贷，但你想要选择不还也没关系，这个贷款没有利息，也没有时限。不还这件事的代价仅仅是没法让你的房子变大而已。如果你选择安于现状，你当然可以就此体验游戏中休闲的生活，如果你愿意还房贷，那么你就能够拥有更大的房子和更多的房贷了！"
+            android:textColor="#000000"
+            android:textStyle="bold" />
+
+        <TextView
+        android:id="@+id/textView27"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorAccent"
+        android:text="新的动森都有什么？"
+        android:textColor="#FFFFFF"
+        android:textSize="10pt"
+        android:textStyle="bold"
+/>
+
+        <TextView
+        android:id="@+id/textView28"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="更丰富的服装、更多变的房子、更丰富的装饰系统，角色还可以自行捏脸，丰富的四季变化，更自由的地形设计，你可以通过改变地形完全打造出自己喜爱的家园的样子（新的花钱点出现了！）你也可以和现实中的朋友们一起，在自己创造的小岛中度过愉快的时光。即使是不常见面的朋友，也可以和他们在游戏中培养感情。"
+/>
+
+
+    </LinearLayout>
+
+</ScrollView>
